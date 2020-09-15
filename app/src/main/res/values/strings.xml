@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MVVM Example</string>
+    <string name="secret_key_name">biometric_sample_encryption_key</string>
+    <string name="prompt_info_title">My App\'s Authentication</string>
+    <string name="prompt_info_subtitle">Please login to get access</string>
+    <string name="prompt_info_description">My App is using Android biometric authentication</string>
+    <string name="prompt_info_use_app_password">Use app password</string>
+    <string name="username">eve.holt@reqres.in</string>
+    <string name="password">cityslicka</string>
+    <string name="customer_id_name_address">Customer Id, Name</string>
+    <string name="title">Title</string>
+</resources>
